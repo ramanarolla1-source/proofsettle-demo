@@ -2,14 +2,18 @@ export default function Footer() {
   return (
     <footer>
       <div className="container">
-        <p>
-          <strong>TxLINE</strong> → <strong>ProofSettle</strong> →{" "}
-          <strong>Solana</strong>
+
+        <h3>ProofSettle</h3>
+
+        <p style={{ marginTop: "15px" }}>
+          Turning Verified Sports Intelligence into Trusted Decisions and
+          Trustless On-Chain Settlement.
         </p>
 
-        <br />
+        <p style={{ marginTop: "25px", color: "#94a3b8" }}>
+          Built for the TxODDS Hackathon
+        </p>
 
-        <p>Built for the TxODDS Hackathon</p>
       </div>
     </footer>
   );
