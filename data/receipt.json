@@ -1,1 +1,61 @@
+{
+  "decisionId": "WC-2026-MATCH-001-DEC-01",
+  "timestamp": "2026-07-12T19:45:12Z",
 
+  "match": {
+    "fixtureId": "WC2026-001",
+    "competition": "FIFA World Cup 2026",
+    "homeTeam": "Argentina",
+    "awayTeam": "Brazil",
+    "finalScore": "2-1"
+  },
+
+  "predictionMarket": {
+    "market": "Match Winner",
+    "selectedOutcome": "Argentina Wins",
+    "settlementStatus": "Settled"
+  },
+
+  "verifiedSportsIntelligence": {
+    "provider": "TxLINE",
+    "historicalData": true,
+    "liveSSE": true,
+    "consensusOdds": true,
+    "normalizedSchema": true,
+    "merkleVerification": "Verified",
+    "validateStat": "Passed"
+  },
+
+  "decisionJourney": {
+    "schemaTransformation": "Completed",
+    "ruleEvaluation": "Passed",
+    "decisionValidation": "Passed",
+    "decisionArtifact": "Generated",
+    "merkleTree": "Constructed",
+    "settlementAuthorization": "Approved"
+  },
+
+  "decisionArtifact": {
+    "artifactId": "ART-2026-0001",
+    "artifactHash": "0x9d37ab84f1ce23874bc4b9eac11f882ab9d74392"
+  },
+
+  "cryptographicProof": {
+    "merkleRoot": "0x84cd92ab84e712bcf937ab4c1e729bc4d11aa93f",
+    "proofHash": "0x7ae291abce7749920fe18a4bb2a91dcab18c9fe2"
+  },
+
+  "settlement": {
+    "network": "Solana",
+    "smartContract": "PredictionSettlementV1",
+    "transactionId": "SETTLE-TX-000001",
+    "status": "Confirmed"
+  },
+
+  "trustReceipt": {
+    "receiptId": "TR-2026-000001",
+    "verificationStatus": "Verified",
+    "transparency": "Complete",
+    "auditTrail": "Available"
+  }
+}
