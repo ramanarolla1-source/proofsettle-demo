@@ -9,26 +9,38 @@ export default function DecisionJourney() {
     "Cryptographic Merkle Tree",
     "Settlement Authorization",
     "Trustless Solana Settlement",
-    "Trust Receipt",
+    "Trust Receipt"
   ];
 
   return (
     <section className="container section">
-      <h2 className="section-title">Decision Journey</h2>
 
-      <p className="section-subtitle">
-        Every prediction follows a transparent engineering journey before
-        settlement is authorized.
-      </p>
+      <h2 className="section-title">
+        Decision Journey
+      </h2>
 
-      <div className="timeline" style={{ marginTop: "40px" }}>
+      <div className="timeline">
+
         {steps.map((step, index) => (
-          <div key={index} className="timeline-item">
-            <h3>Step {index + 1}</h3>
+
+          <div
+            key={index}
+            className="timeline-item"
+          >
+            <h4>
+              Step {index + 1}
+            </h4>
+
             <p>{step}</p>
+
           </div>
+
         ))}
+
       </div>
+
     </section>
   );
 }
+
+ 
