@@ -3,8 +3,13 @@
 ## Turning Verified Sports Intelligence into Trusted Decisions and Trustless On-Chain Settlement
 
 This repository presents a demonstration of **ProofSettle**, showcasing how verified sports intelligence is transformed into trusted operational decisions before trustless on-chain settlement.
+This repository contains the demonstration application for ProofSettle.
 
+The accompanying technical repository contains the complete product documentation, architecture, and implementation details.
+
+For a complete walkthrough of the product, please watch the demonstration video below.
 ---
+
 
 ## 🎥 Product Demonstration
 
