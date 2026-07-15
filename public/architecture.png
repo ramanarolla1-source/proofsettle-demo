@@ -1,1 +1,45 @@
+                ProofSettle
 
+Turning Verified Sports Intelligence
+into Trusted Decisions
+and Trustless On-Chain Settlement
+
+┌──────────────────────────────────────────────────────────┐
+│ Layer 1                                                  │
+│ Verified Sports Intelligence                             │
+│                                                          │
+│ • Historical Sports Data                                │
+│ • Live SSE Match Streams                                 │
+│ • Consensus Odds                                         │
+│ • Standardized Machine-Readable Schema                   │
+│ • Merkle Proof Verification                              │
+│ • validate_stat                                          │
+└──────────────────────────────────────────────────────────┘
+                          │
+                          ▼
+┌──────────────────────────────────────────────────────────┐
+│ Layer 2                                                  │
+│ ProofSettle                                              │
+│ Transparent Decision Intelligence                        │
+│                                                          │
+│ • Decision Intelligence                                  │
+│ • Smart Contract Rule Evaluation                         │
+│ • Decision Validation                                    │
+│ • Decision Artifact                                      │
+│ • Cryptographic Merkle Tree                              │
+│ • Settlement Authorization                               │
+└──────────────────────────────────────────────────────────┘
+                          │
+                          ▼
+┌──────────────────────────────────────────────────────────┐
+│ Layer 3                                                  │
+│ Trustless On-Chain Settlement                            │
+│                                                          │
+│ • Smart Contract Execution                               │
+│ • Immutable Settlement                                   │
+│ • Transaction Confirmation                               │
+└──────────────────────────────────────────────────────────┘
+                          │
+                          ▼
+                   Trust Receipt
+          User-Verifiable Decision Journey
